@@ -1,3 +1,5 @@
+[![build-release](https://github.com/TheRealPiotrP/policy-peoplefinder-abac60/actions/workflows/build-release-policy.yaml/badge.svg)](https://github.com/TheRealPiotrP/policy-peoplefinder-abac60/actions/workflows/build-release-policy.yaml)
+
 # policy-peoplefinder
 
 This repository houses the Aserto policy for the PeopleFinder sample.
